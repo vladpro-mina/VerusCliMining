@@ -1,17 +1,17 @@
 {
 	"pools":[
 	{
-		"name": "Vipor",
+		"name": "Vlpool",
         	"url": "stratum+tcp://pool.veruscoin.io:9999",
 		"timeout": 150
 	},
 	{
-		"name": "Vipor",
+		"name": "Vlpool",
         	"url": "stratum+tcp://pool.veruscoin.io:9999",
 		"timeout": 150
 	},
 	{
-		"name": "Vipor",
+		"name": "Vlpool",
         	"url": "stratum+tcp://pool.veruscoin.io:9999",
 		"timeout": 150
 	}
